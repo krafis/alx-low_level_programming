@@ -1,5 +1,4 @@
-#ifndef  _main.h_
-#define  _main.h_
+
 
 int _putchar(char c);
 
@@ -21,4 +20,4 @@ int is_palindrome(char *s);
 
 
 
-#endif
+
